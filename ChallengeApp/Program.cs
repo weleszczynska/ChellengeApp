@@ -58,8 +58,5 @@ foreach (char c in charArray)
         licznik9++;
     }
 }
-
-Console.WriteLine("0 => " + licznik0 + "\n1 => " + licznik1 + "\n2 => " + licznik2 +
-                "\n3 => " + licznik3 + "\n4 => " + licznik4 + "\n5 => " + licznik5 +
-                "\n6 => " + licznik6 + "\n7 => " + licznik7 + "\n8 => " + licznik8 +
-                "\n9 => " + licznik9);
+Console.WriteLine("0 => " + licznik0 + "\n1 => " + licznik1 + "\n2 => " + licznik2 + "\n3 => " + licznik3 + "\n4 => " + licznik4 + "\n5 => " + licznik5 +
+                "\n6 => " + licznik6 + "\n7 => " + licznik7 + "\n8 => " + licznik8 + "\n9 => " + licznik9);
